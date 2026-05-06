@@ -1,11 +1,16 @@
-Pregunta 1 
-Respuesta:A
+Pregunta 7 
 
-Pregunta 2
-Respuesta:B
-
-Pregunta 3
-Respuesta:A
-
-Pregunta 4
-Respuesta:B
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+git status
+termux-setup-storage
+y
+git init
+git status
+git add .
+git status
+git commit -m "creando archivos semana dos"
+cp -r ~/semana2 ~/storage/shared/
