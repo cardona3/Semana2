@@ -1,0 +1,10 @@
+Pregunta 9
+
+Permite navegación eficiente del sistema de archivos mediante comandos.
+Facilita la gestión estructurada de directorios y recursos del proyecto.
+Optimiza operaciones masivas (copiar, mover, eliminar) sin interfaz gráfica.
+Es esencial para el uso de sistemas de control de versiones como Git.
+Permite ejecutar scripts, compiladores y entornos de desarrollo.
+Habilita automatización mediante bash, zsh u otros intérpretes.
+Es indispensable en servidores y entornos sin GUI.
+Mejora la productividad y el control del entorno de desarrollo
